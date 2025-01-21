@@ -1,7 +1,7 @@
-# EthioMart Amharic Named Entity Recognition (NER) System  
+# Amharic-NER-for-Telegram-E-commerce-Messages 
 
 ## Project Overview  
-EthioMart centralizes e-commerce activities from various Ethiopian-based Telegram channels, enabling real-time data extraction to create a unified platform. This project focuses on:  
+Amharic-NER-for-Telegram-E-commerce-Messages centralizes e-commerce activities from various Ethiopian-based Telegram channels, enabling real-time data extraction to create a unified platform. This project focuses on:  
 
 - Extracting real-time data (text, images, documents) from Telegram channels such as `@ZemenExpress`.  
 - Fine-tuning a large language model (LLM) for Amharic Named Entity Recognition (NER).  
